@@ -1,0 +1,75 @@
+.two , .three , .four{
+    display: none;
+}
+h2{
+    margin-bottom: 0px;
+    cursor: pointer;
+}
+.one{
+    display: block;
+}
+.yaa{
+    background-image: url(../imgs/los-jugadores-del-barca-celebrando-un-gol.jpeg);
+    background-size: cover;
+}
+h1{
+    color: white;
+}
+.wii{
+    width: 32px;
+    height: 32px;
+    
+    border: solid 1px gray;
+    margin-right: 10px;
+    text-align: center;
+}
+.ua{
+    position: fixed;
+    top: 20%;
+    left:0%;
+    background-image:linear-gradient(90deg,#171acf 30%,#e20a0ae5 100% ) ;
+    width:200px;
+    height: 100px;
+    padding-left: 5px;
+
+}
+.ia{
+    width: 32px;
+    height: 32px;
+    margin-left: 5px;
+    border: solid 1px;
+    cursor: pointer;
+}
+.gear{
+    width: 32px;
+    height: 32px;
+    position: fixed;
+    top:20%;
+    background-color:rgb(255, 154, 154);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor:pointer;
+}
+.ia1{
+    background-color: #171acf;
+}
+.ia2{
+    background-color: yellow;
+}
+.ia3{
+    background-color: red;
+}
+.ia4{
+    background-color: cornflowerblue;
+}
+.a{
+    /* background-color: #171acf; */
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: #171acf 1px solid;
+}
